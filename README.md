@@ -36,8 +36,7 @@ How It Works
 7. Send the retrieved context and question to a Groq-hosted language model.
 8. Generate an answer based on the retrieved context. If the answer is not available in the document, the model is instructed to say that it cannot find the answer.
 
- Use Case
+Use Case
 
 This project helps users ask questions about an SQL document and receive answers based on the information available in that document, without manually searching through the entire PDF.
-
 
